@@ -8,3 +8,4 @@ one day, a tip about coding skill
 
 one day, share a technical article with ideas and thoughts
 
+Finish them every week！！
